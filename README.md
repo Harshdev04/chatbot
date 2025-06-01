@@ -75,11 +75,7 @@ chatbot/
 
 ---
 
-## 🤖 Screenshots
 
-*Add a screenshot here if your chatbot has a GUI.*
-
----
 
 ## 📚 Resources
 
