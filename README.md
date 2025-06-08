@@ -1,7 +1,5 @@
 
 
----
-
 ````markdown
 # 💬 AI Chatbot using ChatterBot
 
